@@ -1,0 +1,52 @@
+ile and Directory Manipulation:
+
+ls: List files and directories.
+cd: Change directory.
+pwd: Print the current working directory.
+cp: Copy files or directories.
+mv: Move or rename files or directories.
+rm: Remove files or directories.
+mkdir: Create a new directory.
+rmdir: Remove an empty directory.
+Text Processing:
+
+cat: Concatenate and display the content of files.
+grep: Search for a pattern in a file.
+sed: Stream editor for filtering and transforming text.
+awk: Pattern scanning and processing language.
+File Viewing and Editing:
+
+nano or vim or emacs: Text editors.
+head: Display the first few lines of a file.
+tail: Display the last few lines of a file.
+File Permissions:
+
+chmod: Change file permissions.
+chown: Change file owner.
+Process Management:
+
+ps: Display information about running processes.
+kill: Terminate a process.
+System Information:
+
+uname: Print system information.
+df: Display disk space usage.
+free: Display amount of free and used memory.
+Networking:
+
+ping: Check network connectivity.
+ifconfig or ip: Configure network interfaces.
+netstat: Display network connections and routing tables.
+Compression and Archiving:
+
+tar: Archive files.
+gzip or bzip2: Compress and decompress files.
+Package Management (for Linux distributions):
+
+apt (Debian/Ubuntu) or yum (Red Hat/Fedora): Package management commands.
+Shell Scripting:
+
+echo: Display a message.
+read: Read input from the user.
+if, else, fi: Conditional statements.
+for, while: Looping constructs.
